@@ -52,15 +52,15 @@ src/main/resources/
 -   [x] Criar banco PostgreSQL
 -   [x] Configurar usuário e senha
 -   [x] Configurar conexão no Spring
--   [ ] Criar `V1__create_tables.sql`
--   [ ] Criar tabela `users`
--   [ ] Criar tabela `products`
--   [ ] Criar tabela `sales`
--   [ ] Criar tabela `stock_movements`
--   [ ] Criar chaves primárias
--   [ ] Criar chaves estrangeiras
--   [ ] Criar constraints
--   [ ] Criar índices
+-   [x] Criar `V1__create_tables.sql`
+-   [x] Criar tabela `users`
+-   [x] Criar tabela `products`
+-   [x] Criar tabela `sales`
+-   [x] Criar tabela `stock_movements`
+-   [x] Criar chaves primárias
+-   [x] Criar chaves estrangeiras
+-   [x] Criar constraints
+-   [x] Criar índices
 -   [ ] Executar a aplicação e verificar o Flyway
 
 ## 5. Criar estrutura de pacotes
