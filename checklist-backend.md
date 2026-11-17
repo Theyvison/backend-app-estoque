@@ -116,19 +116,19 @@ br.com.seuprojeto.estoque/
 
 ### Sale
 
--   [ ] Criar `Sale`
--   [ ] `id`
--   [ ] `owner`
--   [ ] `product`
--   [ ] `productName`
--   [ ] `customerName`
--   [ ] `saleDate`
--   [ ] `quantity`
--   [ ] `unitPrice`
--   [ ] `totalAmount`
--   [ ] `status`
--   [ ] `canceledAt`
--   [ ] `createdAt`
+-   [x] Criar `Sale`
+-   [x] `id`
+-   [x] `owner`
+-   [x] `product`
+-   [x] `productName`
+-   [x] `customerName`
+-   [x] `saleDate`
+-   [x] `quantity`
+-   [x] `unitPrice`
+-   [x] `totalAmount`
+-   [x] `status`
+-   [x] `canceledAt`
+-   [x] `createdAt`
 
 ### StockMovement
 
