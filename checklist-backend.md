@@ -132,15 +132,15 @@ br.com.seuprojeto.estoque/
 
 ### StockMovement
 
--   [ ] Criar `StockMovement`
--   [ ] `id`
--   [ ] `product`
--   [ ] `sale`
--   [ ] `type`
--   [ ] `quantityChange`
--   [ ] `quantityAfter`
--   [ ] `reason`
--   [ ] `createdAt`
+-   [x] Criar `StockMovement`
+-   [x] `id`
+-   [x] `product`
+-   [x] `sale`
+-   [x] `type`
+-   [x] `quantityChange`
+-   [x] `quantityAfter`
+-   [x] `reason`
+-   [x] `createdAt`
 
 ## 7. Criar repositories
 
