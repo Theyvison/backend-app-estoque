@@ -61,7 +61,7 @@ src/main/resources/
 -   [x] Criar chaves estrangeiras
 -   [x] Criar constraints
 -   [x] Criar índices
--   [ ] Executar a aplicação e verificar o Flyway
+-   [x] Executar a aplicação e verificar o Flyway
 
 ## 5. Criar estrutura de pacotes
 
