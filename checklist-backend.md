@@ -49,9 +49,9 @@ src/main/resources/
 
 ## 4. Configurar o banco de dados
 
--   [ ] Criar banco PostgreSQL
--   [ ] Configurar usuário e senha
--   [ ] Configurar conexão no Spring
+-   [x] Criar banco PostgreSQL
+-   [x] Configurar usuário e senha
+-   [x] Configurar conexão no Spring
 -   [ ] Criar `V1__create_tables.sql`
 -   [ ] Criar tabela `users`
 -   [ ] Criar tabela `products`
