@@ -101,18 +101,18 @@ br.com.seuprojeto.estoque/
 
 ### Product
 
--   [ ] Criar `Product`
--   [ ] `id`
--   [ ] `owner`
--   [ ] `name`
--   [ ] `description`
--   [ ] `price`
--   [ ] `quantityInStock`
--   [ ] `lowStockThreshold`
--   [ ] `imagePath`
--   [ ] `archivedAt`
--   [ ] `createdAt`
--   [ ] `updatedAt`
+-   [x] Criar `Product`
+-   [x] `id`
+-   [x] `owner`
+-   [x] `name`
+-   [x] `description`
+-   [x] `price`
+-   [x] `quantityInStock`
+-   [x] `lowStockThreshold`
+-   [x] `imagePath`
+-   [x] `archivedAt`
+-   [x] `createdAt`
+-   [x] `updatedAt`
 
 ### Sale
 
