@@ -92,12 +92,12 @@ br.com.seuprojeto.estoque/
 
 ### User
 
--   [ ] Criar `User`
--   [ ] `id`
--   [ ] `name`
--   [ ] `email`
--   [ ] `passwordHash`
--   [ ] `createdAt`
+-   [x] Criar `User`
+-   [x] `id`
+-   [x] `name`
+-   [x] `email`
+-   [x] `passwordHash`
+-   [x] `createdAt`
 
 ### Product
 
