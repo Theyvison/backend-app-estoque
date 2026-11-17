@@ -78,15 +78,15 @@ br.com.seuprojeto.estoque/
 └── dashboard/
 ```
 
--   [ ] Criar `common`
--   [ ] Criar `security`
--   [ ] Criar `auth`
--   [ ] Criar `user`
--   [ ] Criar `product`
--   [ ] Criar `product.image`
--   [ ] Criar `stock`
--   [ ] Criar `sale`
--   [ ] Criar `dashboard`
+-   [x] Criar `common`
+-   [x] Criar `security`
+-   [x] Criar `auth`
+-   [x] Criar `user`
+-   [x] Criar `product`
+-   [x] Criar `product.image`
+-   [x] Criar `stock`
+-   [x] Criar `sale`
+-   [x] Criar `dashboard`
 
 ## 6. Criar entidades
 
